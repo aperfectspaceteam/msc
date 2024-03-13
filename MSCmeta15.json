@@ -1,7 +1,7 @@
 {
   "name": "MustardSeed Coin",
   "symbol": "MUST",
-  "seller_fee_basis_points": 0.00000000,
+  "seller_fee_basis_points": "0.00000000",
   "uri": "https://bz47p532pn5ahzupzgcce5yhl5zrgmlzsz6tge7gegmxz724dz3q.arweave.net/Dnn393p7egPmj8mEIncHX3MTMXmWfTMT5iGZfP9cHnc"
 }
 
