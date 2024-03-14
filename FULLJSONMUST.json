@@ -1,0 +1,23 @@
+"root":{13 items
+"key":int4
+"updateAuthority":string"79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY"
+"mint":string"C8ATHccuWRJPEkbvpaQ1EfHZH2QCM5CWi8S6Dj5xw4f7"
+"data":{4 items
+"name":string"🌱 MustardSeed Coin"
+"symbol":string"MUST"
+"uri":string"https://bz47p532pn5ahzupzgcce5yhl5zrgmlzsz6tge7gegmxz724dz3q.arweave.net/Dnn393p7egPmj8mEIncHX3MTMXmWfTMT5iGZfP9cHnc"
+"sellerFeeBasisPoints":int100
+}
+"primarySaleHappened":int0
+"isMutable":int1
+"editionNonce":int253
+"tokenStandard":int2
+"name":string"🌱 MustardSeed Coin"
+"symbol":string"MUST"
+"image":string"https://57fnbsqxh2b7prhf576on5tihil3e36yqrn5wew7eplrkuv6yqnq.arweave.net/78rQyhc-g_fE5e_85vZoOheyb9iEW9sS3yPXFVK-xBs"
+"description":string"Abundance grows from small seeds"
+"creator":{2 items
+"name":string"Mustard Seed Mission"
+"site":string"https://mustardseedcoin.com"
+}
+}
