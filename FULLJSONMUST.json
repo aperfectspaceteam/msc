@@ -1,4 +1,4 @@
-"root":{13 items
+{13 items
 "key":int4
 "updateAuthority":string"79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY"
 "mint":string"C8ATHccuWRJPEkbvpaQ1EfHZH2QCM5CWi8S6Dj5xw4f7"
@@ -19,5 +19,4 @@
 "creator":{2 items
 "name":string"Mustard Seed Mission"
 "site":string"https://mustardseedcoin.com"
-}
 }
