@@ -1,7 +1,7 @@
 {
   "name": "🌱 MustardSeed Coin",
   "symbol": "MUST",
-  "seller_fee_basis_points": 100,
+  "seller_fee_basis_points": 0,
   "image":"https://57fnbsqxh2b7prhf576on5tihil3e36yqrn5wew7eplrkuv6yqnq.arweave.net/78rQyhc-g_fE5e_85vZoOheyb9iEW9sS3yPXFVK-xBs",
   "site":"https://mustardseedcoin.com",
   "uri": "https://raw.githubusercontent.com/aperfectspaceteam/msc/main/FULLJSONMUST11.json"
