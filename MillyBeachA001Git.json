@@ -1,0 +1,18 @@
+{
+    "name": "Milly Beach A001",
+    "symbol": "MBA001",
+    "uri": "https://zlx2yp2g24fanloyoarawmam2pah76id2uxcnjbvm4karhz4q4fq.arweave.net/yu-sP0bXCgat2HAiCzAM08B_-QPVLiakNWcUCJ88hws",
+    "seller_fee_basis_points": 200,
+    "creators": [
+        {
+            "address": "b8NMmGKaAMiRmQ54Kq6odYtjfBj3egDfc4XGR1cJHph",
+            "verified": false,
+            "share": 250
+        },
+        {
+            "address": "FsntgxR9QybLCGHiYpBdsTcEdYX11bjhgrpDykdjprqt",
+            "verified": false,
+            "share": 250
+        }
+    ]
+}
