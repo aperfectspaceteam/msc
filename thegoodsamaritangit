@@ -1,0 +1,18 @@
+{
+    "name": "The Good Samaritan",
+    "symbol": "TGSPS01",
+    "uri": "https://arweave.net/VzJeG-d7VxnAd_SIEpMi30kyhTf92jmB3vYJ1dPNWFw",
+    "seller_fee_basis_points": 100,
+    "creators": [
+        {
+            "address": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
+            "verified": false,
+            "share": 50
+        },
+        {
+            "address": "b8NMmGKaAMiRmQ54Kq6odYtjfBj3egDfc4XGR1cJHph",
+            "verified": false,
+            "share": 50
+        }
+    ]
+}
