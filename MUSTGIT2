@@ -1,7 +1,9 @@
 {
   "name": "🌱 MustardSeed Coin",
   "symbol": "MUST",
+  "decimals": 9,
+  "totalSupply": 1000000000,
   "seller_fee_basis_points": 0,
   "image":"https://57fnbsqxh2b7prhf576on5tihil3e36yqrn5wew7eplrkuv6yqnq.arweave.net/78rQyhc-g_fE5e_85vZoOheyb9iEW9sS3yPXFVK-xBs",
-  "uri": "https://arweave.net/GIlJjzwZ48ZQqULtWwaH6WDaBRSYtNv1rVE_lQe0XEM",
+  "uri": "https://arweave.net/P-JlYiktP6OmtH2_dSnA4OPvh24MsYLAUkwkZQwy04I",
   "creator":{"name":"MustardSeed Mission","site":"https://mustardseedcoin.com"}}
