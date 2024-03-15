@@ -2,7 +2,7 @@
     "name": "Milly Beach A001",
     "symbol": "MBA001",
     "uri": "https://arweave.net/GLlOkGV9DlX0EAUbl5T-eGW6z8JL5g83MjEmsP6gInE",
-    "seller_fee_basis_points": 200,
+    "seller_fee_basis_points": 500,
     "creators": [
         {
             "address": "b8NMmGKaAMiRmQ54Kq6odYtjfBj3egDfc4XGR1cJHph",
