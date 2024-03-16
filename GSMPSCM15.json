@@ -29,7 +29,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe.ipfs.nftstorage.link/",
+        "uri": "bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe",
         "type": "image/png"
       }
     ],
@@ -60,5 +60,5 @@
       "value": "99"
     }
   ],
-  "image": "https://bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe.ipfs.nftstorage.link/"
+  "image": "bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe"
 }
