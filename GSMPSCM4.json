@@ -1,0 +1,63 @@
+{
+  "price": 0.0001,
+  "number": 99,
+  "gatekeeper": null,
+  "solTreasuryAccount": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": null,
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "storage": "arweave",
+  "ipfsInfuraProjectId": null,
+  "ipfsInfuraSecret": null,
+  "awsS3Bucket": null,
+  "noRetainAuthority": false,
+  "noMutable": true,
+  "isSequential": true,
+  "symbol": "GSMPS1",
+  "sellerFeeBasisPoints": 100,
+  "creators": [
+    {
+      "address": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
+      "share": 100
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://leyfyod2zxa4oiaykomh3dml7ddywiig3aklcc6oz3mn2sqgp63a.arweave.net/WTBcOHrNwccgGFOYfY2L-MeLIQbYFLELzs7Y3UoGf7Y",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
+        "share": 100
+      }
+    ]
+  },
+  "name": "Good Samaritan",
+  "description": "A modern depiction of the parable of the Good Samaritan. This is one of 10 unique NFTs in the series, each with 99 copies available.",
+  "external_url": "",
+  "edition": "1 of 10",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Modern Parables Series"
+    },
+    {
+      "trait_type": "Edition in Series",
+      "value": "1 of 10"
+    },
+    {
+      "trait_type": "Copies per NFT",
+      "value": "99"
+    }
+  ],
+  "image": "https://leyfyod2zxa4oiaykomh3dml7ddywiig3aklcc6oz3mn2sqgp63a.arweave.net/WTBcOHrNwccgGFOYfY2L-MeLIQbYFLELzs7Y3UoGf7Y"
+}
+
