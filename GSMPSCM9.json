@@ -9,7 +9,7 @@
   "endSettings": null,
   "whitelistMintSettings": null,
   "hiddenSettings": null,
-  "uploadMethod": "arweave",   <---- Corrected field
+  "uploadMethod": "nft_storage",
   "ipfsInfuraProjectId": null,
   "ipfsInfuraSecret": null,
   "awsS3Bucket": null,
@@ -28,7 +28,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://leyfyod2zxa4oiaykomh3dml7ddywiig3aklcc6oz3mn2sqgp63a.arweave.net/WTBcOHrNwccgGFOYfY2L-MeLIQbYFLELzs7Y3UoGf7Y",
+        "uri": "https://bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe.ipfs.nftstorage.link/",
         "type": "image/png"
       }
     ],
@@ -59,6 +59,6 @@
       "value": "99"
     }
   ],
-  "image": "https://leyfyod2zxa4oiaykomh3dml7ddywiig3aklcc6oz3mn2sqgp63a.arweave.net/WTBcOHrNwccgGFOYfY2L-MeLIQbYFLELzs7Y3UoGf7Y"
+  "image": "https://bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe.ipfs.nftstorage.link/"
 }
 
