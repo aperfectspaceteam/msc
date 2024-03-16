@@ -29,7 +29,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://ipfs.io/ipfs/bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe",
+        "uri": "https://bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe.ipfs.nftstorage.link/",
         "type": "image/png"
       }
     ],
@@ -60,5 +60,5 @@
       "value": "99"
     }
   ],
-  "image": "https://ipfs.io/ipfs/bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe"
+  "image": "https://bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe.ipfs.nftstorage.link/"
 }
