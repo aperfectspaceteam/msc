@@ -8,7 +8,7 @@
   "endSettings": null,
   "whitelistMintSettings": null,
   "hiddenSettings": null,
-  "uploadMethod": "nftStorage",
+  "uploadMethod": "nft_storage",
   "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEZjNTEzRDI1OUEyQzU3ODlhN0NlYTNjQjRiMDFBRGM2M2E2ZjQ4NDQiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTcxMDYwNDY1NTEwNCwibmFtZSI6ImNtc3VnYXIifQ.2pvZxShMT4byJClpwSBiZFDWQEHuQxax4K9RoAJYBjY",
   "ipfsInfuraProjectId": null,
   "ipfsInfuraSecret": null,
