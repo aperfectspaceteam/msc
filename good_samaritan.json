@@ -1,50 +1,7 @@
 {
-  "price": 0.0001,
-  "number": 99,
-  "solTreasuryAccount": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
-  "splTokenAccount": null,
-  "splToken": null,
-  "goLiveDate": null,
-  "endSettings": null,
-  "whitelistMintSettings": null,
-  "hiddenSettings": null,
-  "uploadMethod": "pinata",
-  "nftStorageAuthToken": null
-  "ipfsInfuraSecret": null,
-  "awsS3Bucket": null,
-  "noRetainAuthority": false,
-  "isMutable": true,
-  "noMutable": true,
-  "isSequential": true,
-  "ruleSet": null,
-  "symbol": "GSMPS1",
-  "sellerFeeBasisPoints": 100,
-  "creators": [
-    {
-      "address": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
-      "share": 100
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://gateway.pinata.cloud/ipfs/QmTa1S7UQbQgddmPcx9pN48Scf5KChDMGTbVhA6uKTSCjk",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
-        "share": 100
-      }
-    ]
-  },
   "name": "Good Samaritan",
   "description": "A modern depiction of the parable of the Good Samaritan. This is one of 10 unique NFTs in the series, each with 99 copies available.",
-  "external_url": "",
-  "edition": "1 of 10",
-  "background_color": "000000",
+  "image": "https://gateway.pinata.cloud/ipfs/QmTa1S7UQbQgddmPcx9pN48Scf5KChDMGTbVhA6uKTSCjk",
   "attributes": [
     {
       "trait_type": "Collection",
@@ -59,5 +16,8 @@
       "value": "99"
     }
   ],
-  "image": "https://gateway.pinata.cloud/ipfs/QmTa1S7UQbQgddmPcx9pN48Scf5KChDMGTbVhA6uKTSCjk"
+  "external_url": "",
+  "edition": "1 of 10",
+  "background_color": "000000"
 }
+
