@@ -14,9 +14,10 @@
   "ipfsInfuraSecret": null,
   "awsS3Bucket": null,
   "noRetainAuthority": false,
-  "isMutable":true,
+  "isMutable": true,
   "noMutable": true,
   "isSequential": true,
+  "uploadMethod": "arweave",   <---- Add this line with the upload method you want to use
   "symbol": "GSMPS1",
   "sellerFeeBasisPoints": 100,
   "creators": [
@@ -61,4 +62,5 @@
   ],
   "image": "https://leyfyod2zxa4oiaykomh3dml7ddywiig3aklcc6oz3mn2sqgp63a.arweave.net/WTBcOHrNwccgGFOYfY2L-MeLIQbYFLELzs7Y3UoGf7Y"
 }
+
 
