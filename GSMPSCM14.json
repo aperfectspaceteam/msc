@@ -1,7 +1,6 @@
 {
   "price": 0.0001,
   "number": 99,
-  "gatekeeper": null,
   "solTreasuryAccount": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
   "splTokenAccount": null,
   "splToken": null,
