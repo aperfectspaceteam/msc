@@ -1,0 +1,28 @@
+{
+  "price": 0.0001,
+  "number": 99,
+  "solTreasuryAccount": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": null,
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "pinata",
+  "nftStorageAuthToken": null,
+  "ipfsInfuraSecret": null,
+  "awsS3Bucket": null,
+  "noRetainAuthority": false,
+  "isMutable": true,
+  "noMutable": true,
+  "isSequential": true,
+  "ruleSet": null,
+  "symbol": "GSMPS1",
+  "sellerFeeBasisPoints": 100,
+  "creators": [
+    {
+      "address": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
+      "share": 100
+    }
+  ]
+}
