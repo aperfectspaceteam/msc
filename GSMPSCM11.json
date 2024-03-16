@@ -17,7 +17,7 @@
   "isMutable": true,
   "noMutable": true,
   "isSequential": true,
-  "ruleSet": null
+  "ruleSet": null,
   "symbol": "GSMPS1",
   "sellerFeeBasisPoints": 100,
   "creators": [
