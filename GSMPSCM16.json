@@ -8,8 +8,8 @@
   "endSettings": null,
   "whitelistMintSettings": null,
   "hiddenSettings": null,
-  "uploadMethod": "nft_storage",
-  "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEZjNTEzRDI1OUEyQzU3ODlhN0NlYTNjQjRiMDFBRGM2M2E2ZjQ4NDQiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTcxMDYwNDY1NTEwNCwibmFtZSI6ImNtc3VnYXIifQ.2pvZxShMT4byJClpwSBiZFDWQEHuQxax4K9RoAJYBjY",
+  "uploadMethod": "pinata",
+  "nftStorageAuthToken": null,
   "ipfsInfuraProjectId": null,
   "ipfsInfuraSecret": null,
   "awsS3Bucket": null,
@@ -29,7 +29,7 @@
   "properties": {
     "files": [
       {
-        "uri": "bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe",
+        "uri": "QmTa1S7UQbQgddmPcx9pN48Scf5KChDMGTbVhA6uKTSCjk",
         "type": "image/png"
       }
     ],
@@ -60,5 +60,5 @@
       "value": "99"
     }
   ],
-  "image": "bafybeicaehqcnus7btp4e34wqhzqlra6ol4p6ykcfppcutoywsr4kxqdhe"
+  "image": "QmTa1S7UQbQgddmPcx9pN48Scf5KChDMGTbVhA6uKTSCjke"
 }
