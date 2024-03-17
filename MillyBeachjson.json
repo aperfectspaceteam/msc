@@ -1,0 +1,20 @@
+{
+        "name": "Milly Beach",
+        "symbol": "MLTB",
+        "uri": "https://xaqgqefpixcy2yecuzs5li72pqfejsdbgm3vxs3p6wamuazkkjiq.arweave.net/uCBoEK9FxY1ggqZl1aP6fApEyGEzN1vLb_WAygMqUlE",
+        "seller_fee_basis_points": 100,
+        "creators": [
+            {
+                "address": "79JBPweVguKECj8difC5eVWFdTwgtBUt5rPck7T6eqVY",
+                "verified": true,
+                "share": 100
+            }
+        ],
+        "primary_sale_happened": false,
+        "is_mutable": true,
+        "token_standard": "ProgrammableNonFungible",
+        "collection": "Milly Loves The Beach",
+        "uses": null,
+        "collection_details": null,
+        "rule_set": null
+    }
