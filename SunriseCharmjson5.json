@@ -14,7 +14,7 @@
         "primary_sale_happened": false,
         "is_mutable": true,
         "token_standard": "ProgrammableNonFungible",
-        "collection": nul,
+        "collection": null,
         "uses": null,
         "collection_details": null,
         "rule_set": null
